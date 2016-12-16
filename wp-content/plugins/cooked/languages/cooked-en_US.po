@@ -1,0 +1,2199 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cooked Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-08-01 11:13-0400\n"
+"PO-Revision-Date: 2016-08-01 11:13-0400\n"
+"Last-Translator: Justin Scheetz <justin@boxystudio.com>\n"
+"Language-Team: Boxy Studio <support@boxystudio.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/includes/pointers.php:8 admin/includes/pointers.php:22
+msgid "HELP"
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:12
+#: admin/templates/cp_recipe_metabox.php:34 includes/edit-recipe.php:245
+#: includes/edit-recipe.php:254 includes/shortcodes.php:629
+#: includes/shortcodes.php:635 templates/cp_recipe/section-ingredients.php:3
+msgid "Ingredients"
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:26
+#: admin/templates/cp_recipe_metabox.php:210
+msgid "Detailed Entry"
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:27
+#: admin/templates/cp_recipe_metabox.php:211
+msgid "Simple Entry"
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:33
+#: admin/templates/cp_recipe_metabox.php:217 includes/edit-recipe.php:253
+#: includes/edit-recipe.php:274 includes/shortcodes.php:634
+#: includes/shortcodes.php:651
+msgid "Sections"
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:33
+#: admin/templates/cp_recipe_metabox.php:217 includes/edit-recipe.php:253
+#: includes/edit-recipe.php:274 includes/shortcodes.php:634
+#: includes/shortcodes.php:651
+msgid "Section"
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:34
+#: admin/templates/cp_recipe_metabox.php:74
+#: admin/templates/cp_recipe_metabox.php:126 includes/edit-recipe.php:254
+#: includes/shortcodes.php:635
+msgid "Ingredient"
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:38 includes/edit-recipe.php:258
+#: includes/shortcodes.php:639
+msgid ""
+"Enter one ingredient per line. Use a double dash to start new section "
+"titles. (ex. --Section Title)."
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:56
+#: admin/templates/cp_recipe_metabox.php:170
+#: admin/templates/cp_recipe_metabox.php:237
+#: admin/templates/cp_recipe_metabox.php:358
+msgid "Section title..."
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:72
+#: admin/templates/cp_recipe_metabox.php:124
+msgid "Amount"
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:73
+#: admin/templates/cp_recipe_metabox.php:125
+#: taxonomies/cp_recipe_measurement.php:37
+msgid "Measurement"
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:87
+#: admin/templates/cp_recipe_metabox.php:139
+msgid "Choose..."
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:128
+#: admin/templates/cp_recipe_metabox.php:268
+#: admin/templates/cp_recipe_metabox.php:329
+msgid "Clone"
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:129
+#: admin/templates/cp_recipe_metabox.php:173
+#: admin/templates/cp_recipe_metabox.php:269
+#: admin/templates/cp_recipe_metabox.php:330
+#: admin/templates/cp_recipe_metabox.php:361
+msgid "Remove"
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:189
+msgid "Add an Ingredient"
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:189
+#: admin/templates/cp_recipe_metabox.php:377
+msgid "Add a Section"
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:197 includes/edit-recipe.php:266
+#: includes/shortcodes.php:646 templates/cp_recipe/section-directions.php:3
+msgid "Directions"
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:218 includes/edit-recipe.php:275
+#: includes/shortcodes.php:652
+msgid "Steps"
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:218 includes/edit-recipe.php:275
+#: includes/shortcodes.php:652
+msgid "Step"
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:221 includes/edit-recipe.php:278
+#: includes/shortcodes.php:655
+msgid ""
+"Add all of the cooking steps, one per line. You can use a double dash for "
+"section titles (ex. --Section Title). You can also use the <strong>[timer "
+"length=30]30 Minutes[/timer]</strong> shortcode to add a timer link."
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:254
+#: admin/templates/cp_recipe_metabox.php:310
+msgid "Select direction image"
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:254
+#: admin/templates/cp_recipe_metabox.php:310
+msgid "Direction image"
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:265
+#: admin/templates/cp_recipe_metabox.php:326
+msgid "Direction"
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:377
+msgid "Add a Direction"
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:385
+msgid "Recipe Video (oEmbed)"
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:392
+#: admin/templates/cp_recipe_metabox.php:417 includes/edit-recipe.php:108
+#: includes/edit-recipe.php:189 includes/shortcodes.php:680
+#: includes/shortcodes.php:695
+msgid "OPTIONAL:"
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:392 includes/edit-recipe.php:108
+#: includes/shortcodes.php:695
+msgid "If you have your recipe video on Youtube, Vimeo, or"
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:392 includes/edit-recipe.php:108
+#: includes/shortcodes.php:695
+msgid "any of the other supported oEmbed sites"
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:392 includes/edit-recipe.php:108
+#: includes/shortcodes.php:695
+msgid "then you'll want to use the field above. Just paste in the URL"
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:392 includes/edit-recipe.php:108
+#: includes/shortcodes.php:695
+msgid "ex"
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:392 includes/edit-recipe.php:108
+#: includes/shortcodes.php:695
+msgid "or"
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:392 includes/edit-recipe.php:108
+#: includes/shortcodes.php:695
+msgid "and it will show up as a popup by clicking the recipe image."
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:399 admin/templates/settings.php:632
+#: includes/edit-recipe.php:171 includes/shortcodes.php:662
+msgid "Short Description"
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:410 includes/edit-recipe.php:183
+#: includes/shortcodes.php:674
+msgid "Excerpt for List Views"
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:417 includes/edit-recipe.php:189
+#: includes/shortcodes.php:680
+msgid ""
+"If you include an excerpt, it will replace your short description in the "
+"recipe list views."
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:425 admin/templates/settings.php:628
+#: includes/edit-recipe.php:115 includes/shortcodes.php:703
+#: includes/shortcodes.php:704
+msgid "Difficulty Level"
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:446 includes/edit-recipe.php:199
+#: includes/shortcodes.php:748 includes/shortcodes.php:1422
+msgid "Prep Time"
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:469 includes/edit-recipe.php:221
+#: includes/shortcodes.php:770
+msgid "Cook Time"
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:494
+msgid "Additional Recipe Notes"
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:501 includes/edit-recipe.php:292
+#: includes/shortcodes.php:801
+msgid ""
+"Add any other notes like recipe source, cooking hints, etc. This section "
+"will show up under the cooking directions."
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:511
+msgid "Guest Rating"
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:523
+msgid ""
+"This is the Guest rating. You can switch to Admin reviews only from the <a "
+"href=\"edit.php?post_type=cp_recipe&page=cooked_plugin\">Cooked Settings</a> "
+"panel."
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:529
+msgid "Admin Rating"
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:541
+msgid "Clear Rating"
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:543
+msgid ""
+"This is an Admin rating. You can switch to guest reviews and comments from "
+"the <a href=\"edit.php?post_type=cp_recipe&page=cooked_plugin\">Cooked "
+"Settings</a> panel."
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:550
+msgid "YIELDS"
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:557 includes/edit-recipe.php:308
+#: includes/shortcodes.php:817
+msgid "ex. 4 Servings, 3 Cups, 6 Bowls, etc."
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:564
+msgid "NUTRITION FACTS"
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:570 includes/edit-recipe.php:322
+#: includes/shortcodes.php:831 templates/cp_recipe/section-nutrition.php:25
+msgid "Serving Size"
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:582 includes/edit-recipe.php:333
+#: includes/shortcodes.php:842 templates/cp_recipe/section-nutrition.php:30
+msgid "Calories"
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:594 includes/edit-recipe.php:344
+#: includes/shortcodes.php:853 templates/cp_recipe/section-nutrition.php:60
+msgid "Total Fat"
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:606 includes/edit-recipe.php:355
+#: includes/shortcodes.php:864 templates/cp_recipe/section-nutrition.php:65
+msgid "Saturated Fat"
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:618 includes/edit-recipe.php:366
+#: includes/shortcodes.php:875 templates/cp_recipe/section-nutrition.php:70
+msgid "Polyunsaturated Fat"
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:630 includes/edit-recipe.php:377
+#: includes/shortcodes.php:886 templates/cp_recipe/section-nutrition.php:75
+msgid "Monounsaturated Fat"
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:642 includes/edit-recipe.php:388
+#: includes/shortcodes.php:897 templates/cp_recipe/section-nutrition.php:80
+msgid "Trans Fat"
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:654 includes/edit-recipe.php:399
+#: includes/shortcodes.php:908 templates/cp_recipe/section-nutrition.php:50
+msgid "Cholesterol"
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:666 includes/edit-recipe.php:410
+#: includes/shortcodes.php:919 templates/cp_recipe/section-nutrition.php:35
+msgid "Sodium"
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:678 includes/edit-recipe.php:421
+#: includes/shortcodes.php:930 templates/cp_recipe/section-nutrition.php:40
+msgid "Potassium"
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:690 includes/edit-recipe.php:432
+#: includes/shortcodes.php:941
+msgid "Total Carbohydrate"
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:702 includes/edit-recipe.php:443
+#: includes/shortcodes.php:952
+msgid "Fiber"
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:714 includes/edit-recipe.php:454
+#: includes/shortcodes.php:963 templates/cp_recipe/section-nutrition.php:55
+msgid "Sugar"
+msgstr ""
+
+#: admin/templates/cp_recipe_metabox.php:726 includes/edit-recipe.php:465
+#: includes/shortcodes.php:974 templates/cp_recipe/section-nutrition.php:45
+msgid "Protein"
+msgstr ""
+
+#: admin/templates/pending-list.php:3
+msgid "Updating, please wait..."
+msgstr ""
+
+#: admin/templates/pending-list.php:4
+msgid "Pending Recipes"
+msgstr ""
+
+#: admin/templates/pending-list.php:10
+msgid "Recipe Details"
+msgstr ""
+
+#: admin/templates/pending-list.php:11
+msgid "Options"
+msgstr ""
+
+#: admin/templates/pending-list.php:51
+msgid "There are no pending recipes."
+msgstr ""
+
+#: admin/templates/pending-list.php:71
+msgid "Approve"
+msgstr ""
+
+#: admin/templates/pending-list.php:82
+msgid "(this user no longer exists)"
+msgstr ""
+
+#: admin/templates/settings.php:28
+msgid "Cooked Settings"
+msgstr ""
+
+#: admin/templates/settings.php:33
+msgid "General"
+msgstr ""
+
+#: admin/templates/settings.php:34
+msgid "Styling"
+msgstr ""
+
+#: admin/templates/settings.php:35
+msgid "Features"
+msgstr ""
+
+#: admin/templates/settings.php:36
+msgid "Submissions"
+msgstr ""
+
+#: admin/templates/settings.php:37
+msgid "User Emails"
+msgstr ""
+
+#: admin/templates/settings.php:38
+msgid "Admin Emails"
+msgstr ""
+
+#: admin/templates/settings.php:39
+msgid "Social Settings"
+msgstr ""
+
+#: admin/templates/settings.php:40
+msgid "Import/Export / Uninstall"
+msgstr ""
+
+#: admin/templates/settings.php:55
+msgid "Browse Recipes Page"
+msgstr ""
+
+#: admin/templates/settings.php:57 admin/templates/settings.php:89
+#, php-format
+msgid ""
+"%sCreate a page%s that includes the %s shortcode, then choose it from this "
+"dropdown."
+msgstr ""
+
+#: admin/templates/settings.php:70
+msgid "Choose a page to use for list view..."
+msgstr ""
+
+#: admin/templates/settings.php:87
+msgid "Profile Page"
+msgstr ""
+
+#: admin/templates/settings.php:102
+msgid "Choose a page to use for profile page..."
+msgstr ""
+
+#: admin/templates/settings.php:118
+msgid "Default Category"
+msgstr ""
+
+#: admin/templates/settings.php:120
+msgid ""
+"Optionally set the default Recipe Category to display on your Browse Recipe "
+"Page."
+msgstr ""
+
+#: admin/templates/settings.php:130 admin/templates/settings.php:157
+#: admin/templates/settings.php:184 admin/templates/settings.php:208
+msgid "No default"
+msgstr ""
+
+#: admin/templates/settings.php:145
+msgid "Default Cuisine"
+msgstr ""
+
+#: admin/templates/settings.php:147
+msgid ""
+"Optionally set the default Cuisine to display on your Browse Recipe Page."
+msgstr ""
+
+#: admin/templates/settings.php:172
+msgid "Default Cooking Method"
+msgstr ""
+
+#: admin/templates/settings.php:174
+msgid ""
+"Optionally set the default Cooking Method to display on your Browse Recipe "
+"Page."
+msgstr ""
+
+#: admin/templates/settings.php:199
+msgid "Default Sort Order"
+msgstr ""
+
+#: admin/templates/settings.php:201
+msgid ""
+"Optionally set the default Sort Order to display on your Browse Recipe Page."
+msgstr ""
+
+#: admin/templates/settings.php:209 admin/widgets.php:235
+msgid "Alphabetical"
+msgstr ""
+
+#: admin/templates/settings.php:210
+msgid "Alphabetical (reversed)"
+msgstr ""
+
+#: admin/templates/settings.php:211
+msgid "Newest First"
+msgstr ""
+
+#: admin/templates/settings.php:212
+msgid "Oldest First"
+msgstr ""
+
+#: admin/templates/settings.php:213
+msgid "Highest Rated First"
+msgstr ""
+
+#: admin/templates/settings.php:214
+msgid "Lowest Rated First"
+msgstr ""
+
+#: admin/templates/settings.php:224
+msgid "WooCommerce \"Account\" Tab"
+msgstr ""
+
+#: admin/templates/settings.php:226
+msgid ""
+"By default, the WooCommerce Account page loads as the first Profile tab. You "
+"can disable that below."
+msgstr ""
+
+#: admin/templates/settings.php:233
+msgid "Disable \"Account\" Tab on Profile Page"
+msgstr ""
+
+#: admin/templates/settings.php:260
+msgid "Recipe Template Settings"
+msgstr ""
+
+#: admin/templates/settings.php:262
+msgid ""
+"Choose from the following templates to display your recipes in one of ten "
+"unique ways."
+msgstr ""
+
+#: admin/templates/settings.php:263
+msgid "Note"
+msgstr ""
+
+#: admin/templates/settings.php:263
+msgid ""
+"The sidebar templates do NOT include the sidebar. They are simply better "
+"layouts for templates that include a sidebar (with a narrower content area)."
+msgstr ""
+
+#: admin/templates/settings.php:304
+msgid "Recipe List View Style"
+msgstr ""
+
+#: admin/templates/settings.php:305
+msgid "Choose between a full-width, grid, or compact (text-only) list view."
+msgstr ""
+
+#: admin/templates/settings.php:312
+msgid "Full-Width"
+msgstr ""
+
+#: admin/templates/settings.php:313
+msgid "Recipe Grid"
+msgstr ""
+
+#: admin/templates/settings.php:314
+msgid "Compact List"
+msgstr ""
+
+#: admin/templates/settings.php:334
+msgid "Pagination Style"
+msgstr ""
+
+#: admin/templates/settings.php:336
+msgid "There are three unique pagination styles to choose from."
+msgstr ""
+
+#: admin/templates/settings.php:343
+msgid "Numbered Pagination"
+msgstr ""
+
+#: admin/templates/settings.php:344
+msgid "Load More Button"
+msgstr ""
+
+#: admin/templates/settings.php:345
+msgid "Load More on Scroll"
+msgstr ""
+
+#: admin/templates/settings.php:365
+msgid "PLUGIN STYLING OPTIONS"
+msgstr ""
+
+#: admin/templates/settings.php:373
+msgid "Load all styles"
+msgstr ""
+
+#: admin/templates/settings.php:374
+msgid "Only layout styles"
+msgstr ""
+
+#: admin/templates/settings.php:375
+msgid "Disable plugin styling"
+msgstr ""
+
+#: admin/templates/settings.php:395
+msgid "COLOR SETTINGS"
+msgstr ""
+
+#: admin/templates/settings.php:446
+msgid "Recipe Slug"
+msgstr ""
+
+#: admin/templates/settings.php:448
+msgid ""
+"The default recipe slug is \"recipe\". Feel free to change it to something "
+"else here. No spaces, numbers or symbols allowed, just letters and dashes!"
+msgstr ""
+
+#: admin/templates/settings.php:449 admin/templates/settings.php:463
+#: admin/templates/settings.php:477 admin/templates/settings.php:491
+msgid ""
+"<strong>NOTE:</strong> Make sure the slug you choose doesn't conflict with "
+"any other slugs (pages, posts, taxonomies etc.)"
+msgstr ""
+
+#: admin/templates/settings.php:460
+msgid "Recipe Category Slug"
+msgstr ""
+
+#: admin/templates/settings.php:462
+msgid ""
+"The default recipe slug is \"recipe-category\". Feel free to change it to "
+"something else here. No spaces, numbers or symbols allowed, just letters and "
+"dashes!"
+msgstr ""
+
+#: admin/templates/settings.php:474
+msgid "Recipe Cuisine Slug"
+msgstr ""
+
+#: admin/templates/settings.php:476
+msgid ""
+"The default recipe slug is \"recipe-cuisine\". Feel free to change it to "
+"something else here. No spaces, numbers or symbols allowed, just letters and "
+"dashes!"
+msgstr ""
+
+#: admin/templates/settings.php:488
+msgid "Recipe Cooking Method Slug"
+msgstr ""
+
+#: admin/templates/settings.php:490
+msgid ""
+"The default recipe slug is \"recipe-cooking_method\". Feel free to change it "
+"to something else here. No spaces, numbers or symbols allowed, just letters "
+"and dashes!"
+msgstr ""
+
+#: admin/templates/settings.php:500 admin/templates/settings.php:509
+#: taxonomies/cp_recipe_measurement.php:36
+#: taxonomies/cp_recipe_measurement.php:46
+msgid "Measurements"
+msgstr ""
+
+#: admin/templates/settings.php:502
+msgid ""
+"You <strong>DO NOT</strong> need to check this option to use measurements. "
+"However, if you need to manually edit the measurement lists, you can check "
+"the following box to enable that."
+msgstr ""
+
+#: admin/templates/settings.php:502 admin/templates/settings.php:621
+msgid "NOTE:"
+msgstr ""
+
+#: admin/templates/settings.php:502
+msgid ""
+"If you delete a measurement that a recipe is currently using, that "
+"measurement will no longer display. <em>Be careful!</em>"
+msgstr ""
+
+#: admin/templates/settings.php:528
+msgid "Recipe Actions"
+msgstr ""
+
+#: admin/templates/settings.php:530
+msgid ""
+"Your visitors can print, heart and view your recipes in a full-screen mode."
+msgstr ""
+
+#: admin/templates/settings.php:537
+msgid "Print Button"
+msgstr ""
+
+#: admin/templates/settings.php:538
+msgid "Full-screen Button"
+msgstr ""
+
+#: admin/templates/settings.php:539
+msgid "Favorite Button"
+msgstr ""
+
+#: admin/templates/settings.php:558
+msgid "Premium Actions"
+msgstr ""
+
+#: admin/templates/settings.php:560
+msgid ""
+"Check the box below to make the actions listed above \"Premium\" (make them "
+"only available if logged in)."
+msgstr ""
+
+#: admin/templates/settings.php:567
+msgid "Make Actions \"Premium\""
+msgstr ""
+
+#: admin/templates/settings.php:587
+msgid "Recipe Taxonomies"
+msgstr ""
+
+#: admin/templates/settings.php:589
+msgid "Choose which taxonomies you want to use and display."
+msgstr ""
+
+#: admin/templates/settings.php:596 admin/templates/settings.php:634
+#: taxonomies/cp_recipe_category.php:32 templates/archive-cp_recipe.php:17
+#: templates/views/compact_list.php:60 templates/views/compact_list.php:191
+#: templates/views/compact_list.php:226
+msgid "Category"
+msgstr ""
+
+#: admin/templates/settings.php:597 admin/templates/settings.php:635
+#: includes/edit-recipe.php:148 includes/shortcodes.php:728
+#: taxonomies/cp_recipe_cuisine.php:32 templates/archive-cp_recipe.php:23
+#: templates/views/compact_list.php:61 templates/views/compact_list.php:192
+#: templates/views/compact_list.php:227
+msgid "Cuisine"
+msgstr ""
+
+#: admin/templates/settings.php:598 admin/templates/settings.php:636
+#: includes/edit-recipe.php:159 includes/shortcodes.php:735
+#: templates/archive-cp_recipe.php:11
+msgid "Cooking Method"
+msgstr ""
+
+#: admin/templates/settings.php:599 taxonomies/cp_recipe_tags.php:38
+msgid "Tags"
+msgstr ""
+
+#: admin/templates/settings.php:619 post-types/cp_recipe.php:247
+msgid "Recipe Information"
+msgstr ""
+
+#: admin/templates/settings.php:621
+msgid ""
+"Choose which items you want to display on the recipe information panels."
+msgstr ""
+
+#: admin/templates/settings.php:621
+msgid ""
+"The items you hide here will also be hidden from the front-end submission "
+"form."
+msgstr ""
+
+#: admin/templates/settings.php:629
+msgid "Author"
+msgstr ""
+
+#: admin/templates/settings.php:630
+msgid "Author Avatar"
+msgstr ""
+
+#: admin/templates/settings.php:631 templates/views/compact_list.php:65
+#: templates/views/compact_list.php:229
+msgid "Rating"
+msgstr ""
+
+#: admin/templates/settings.php:633
+msgid "Excerpt"
+msgstr ""
+
+#: admin/templates/settings.php:637
+msgid "Timing"
+msgstr ""
+
+#: admin/templates/settings.php:638 includes/edit-recipe.php:302
+#: includes/shortcodes.php:811 templates/cp_recipe/section-recipe_info.php:99
+#: templates/views/full_width.php:114 templates/views/recipe_grid.php:116
+msgid "Yields"
+msgstr ""
+
+#: admin/templates/settings.php:639 includes/edit-recipe.php:286
+#: includes/shortcodes.php:795
+msgid "Additional Notes"
+msgstr ""
+
+#: admin/templates/settings.php:640
+msgid "Nutritional Facts"
+msgstr ""
+
+#: admin/templates/settings.php:660 admin/widgets.php:60 admin/widgets.php:257
+msgid "Display Options"
+msgstr ""
+
+#: admin/templates/settings.php:668
+msgid "Disable Ingredient Checkboxes"
+msgstr ""
+
+#: admin/templates/settings.php:669
+msgid "Disable Direction Numbers"
+msgstr ""
+
+#: admin/templates/settings.php:693
+msgid "Max Prep Time"
+msgstr ""
+
+#: admin/templates/settings.php:695
+msgid "Change the maximum prep time here, in hours."
+msgstr ""
+
+#: admin/templates/settings.php:701 admin/templates/settings.php:741
+msgid "1 hour"
+msgstr ""
+
+#: admin/templates/settings.php:702 admin/templates/settings.php:742
+msgid "2 hours"
+msgstr ""
+
+#: admin/templates/settings.php:703 admin/templates/settings.php:743
+msgid "3 hours"
+msgstr ""
+
+#: admin/templates/settings.php:704 admin/templates/settings.php:744
+msgid "4 hours"
+msgstr ""
+
+#: admin/templates/settings.php:705 admin/templates/settings.php:745
+msgid "5 hours"
+msgstr ""
+
+#: admin/templates/settings.php:706 admin/templates/settings.php:746
+msgid "6 hours"
+msgstr ""
+
+#: admin/templates/settings.php:707 admin/templates/settings.php:747
+msgid "7 hours"
+msgstr ""
+
+#: admin/templates/settings.php:708 admin/templates/settings.php:748
+msgid "8 hours"
+msgstr ""
+
+#: admin/templates/settings.php:709 admin/templates/settings.php:749
+msgid "9 hours"
+msgstr ""
+
+#: admin/templates/settings.php:710 admin/templates/settings.php:750
+msgid "10 hours"
+msgstr ""
+
+#: admin/templates/settings.php:711 admin/templates/settings.php:751
+msgid "11 hours"
+msgstr ""
+
+#: admin/templates/settings.php:712 admin/templates/settings.php:752
+msgid "12 hours"
+msgstr ""
+
+#: admin/templates/settings.php:713 admin/templates/settings.php:753
+msgid "15 hours"
+msgstr ""
+
+#: admin/templates/settings.php:714 admin/templates/settings.php:754
+msgid "20 hours"
+msgstr ""
+
+#: admin/templates/settings.php:733
+msgid "Max Cook Time"
+msgstr ""
+
+#: admin/templates/settings.php:735
+msgid "Change the maximum cook time here, in hours."
+msgstr ""
+
+#: admin/templates/settings.php:773
+msgid "Reviews &amp; Comments"
+msgstr ""
+
+#: admin/templates/settings.php:775
+msgid "How do you want your comments and/or reviews to work?"
+msgstr ""
+
+#: admin/templates/settings.php:782
+msgid "Guest Reviews w/Comments"
+msgstr ""
+
+#: admin/templates/settings.php:783
+msgid "Admin Reviews w/Comments (no guest reviews)"
+msgstr ""
+
+#: admin/templates/settings.php:784
+msgid "Admin Reviews Only (no comments or guest reviews)"
+msgstr ""
+
+#: admin/templates/settings.php:785
+msgid "Admin Reviews w/Default WordPress Comments"
+msgstr ""
+
+#: admin/templates/settings.php:805
+msgid "Fix Duplicate Comments?"
+msgstr ""
+
+#: admin/templates/settings.php:807
+msgid ""
+"If the theme you're using is showing duplicate comments on recipes, just "
+"check this box."
+msgstr ""
+
+#: admin/templates/settings.php:814
+msgid "Fix duplicate comments"
+msgstr ""
+
+#: admin/templates/settings.php:834
+msgid "Star Reviews"
+msgstr ""
+
+#: admin/templates/settings.php:836
+msgid "If you'd like, you can make the star review an optional item."
+msgstr ""
+
+#: admin/templates/settings.php:843
+msgid "Star review is optional"
+msgstr ""
+
+#: admin/templates/settings.php:870
+msgid "Front-End Submissions"
+msgstr ""
+
+#: admin/templates/settings.php:872
+msgid "Check the box to enable front-end recipe submissions."
+msgstr ""
+
+#: admin/templates/settings.php:879
+msgid "Enable Front-End Submissions"
+msgstr ""
+
+#: admin/templates/settings.php:899
+msgid "Next steps:"
+msgstr ""
+
+#: admin/templates/settings.php:901
+msgid ""
+"Create a page and add the <strong>[cooked-submit]</strong> shortcode to "
+"display the form."
+msgstr ""
+
+#: admin/templates/settings.php:902
+msgid "Choose which user-roles have access to the front-end submission form."
+msgstr ""
+
+#: admin/templates/settings.php:903
+msgid ""
+"Fill out the fields below to set what displays to both logged-in and logged-"
+"out users."
+msgstr ""
+
+#: admin/templates/settings.php:910
+msgid "Who can submit recipes?"
+msgstr ""
+
+#: admin/templates/settings.php:912
+msgid ""
+"Choose the user roles from which you want to allow front-end submissions."
+msgstr ""
+
+#: admin/templates/settings.php:946
+msgid "Enabled Profile Fields"
+msgstr ""
+
+#: admin/templates/settings.php:948
+msgid "Choose the profile fields you want to allow your users to utilize."
+msgstr ""
+
+#: admin/templates/settings.php:961
+msgid "Website URL"
+msgstr ""
+
+#: admin/templates/settings.php:962 templates/profile.php:383
+msgid "Short Bio"
+msgstr ""
+
+#: admin/templates/settings.php:985
+msgid "Recipe Limit"
+msgstr ""
+
+#: admin/templates/settings.php:987
+msgid ""
+"To prevent users from submitting too many recipes, you can set a recipe "
+"limit."
+msgstr ""
+
+#: admin/templates/settings.php:993
+msgid "No limit"
+msgstr ""
+
+#: admin/templates/settings.php:994
+msgid "1 recipe"
+msgstr ""
+
+#: admin/templates/settings.php:995
+msgid "2 recipes"
+msgstr ""
+
+#: admin/templates/settings.php:996
+msgid "3 recipes"
+msgstr ""
+
+#: admin/templates/settings.php:997
+msgid "4 recipes"
+msgstr ""
+
+#: admin/templates/settings.php:998
+msgid "5 recipes"
+msgstr ""
+
+#: admin/templates/settings.php:999
+msgid "6 recipes"
+msgstr ""
+
+#: admin/templates/settings.php:1000
+msgid "7 recipes"
+msgstr ""
+
+#: admin/templates/settings.php:1001
+msgid "8 recipes"
+msgstr ""
+
+#: admin/templates/settings.php:1002
+msgid "9 recipes"
+msgstr ""
+
+#: admin/templates/settings.php:1003
+msgid "10 recipes"
+msgstr ""
+
+#: admin/templates/settings.php:1004
+msgid "15 recipes"
+msgstr ""
+
+#: admin/templates/settings.php:1005
+msgid "20 recipes"
+msgstr ""
+
+#: admin/templates/settings.php:1006
+msgid "25 recipes"
+msgstr ""
+
+#: admin/templates/settings.php:1007
+msgid "50 recipes"
+msgstr ""
+
+#: admin/templates/settings.php:1022
+msgid "New Recipe Default"
+msgstr ""
+
+#: admin/templates/settings.php:1024
+msgid ""
+"Would you like the submitted recipes to go in as Drafts or should they be "
+"Published immediately?"
+msgstr ""
+
+#: admin/templates/settings.php:1030
+msgid "Set as Draft"
+msgstr ""
+
+#: admin/templates/settings.php:1031
+msgid "Publish Immediately"
+msgstr ""
+
+#: admin/templates/settings.php:1048
+msgid "Message to Logged-in Users"
+msgstr ""
+
+#: admin/templates/settings.php:1050 admin/templates/settings.php:1066
+msgid "Some things to remember"
+msgstr ""
+
+#: admin/templates/settings.php:1052
+msgid "This is a message to display to the people who HAVE access to the form."
+msgstr ""
+
+#: admin/templates/settings.php:1053 admin/templates/settings.php:1069
+msgid "HTML allowed"
+msgstr ""
+
+#: admin/templates/settings.php:1054
+msgid ""
+"Use the <strong>%username%</strong> token to display the user's name in the "
+"message."
+msgstr ""
+
+#: admin/templates/settings.php:1064
+msgid "Message to Logged-out Users"
+msgstr ""
+
+#: admin/templates/settings.php:1068
+msgid ""
+"This is a message to display to the people who DO NOT HAVE access to the "
+"form."
+msgstr ""
+
+#: admin/templates/settings.php:1070
+msgid ""
+"Put the <strong>[cooked-login]</strong> shortcode somewhere so users can "
+"register and/or log in."
+msgstr ""
+
+#: admin/templates/settings.php:1085 admin/templates/settings.php:1188
+msgid ""
+"If you do not want to send email notifications for any or all of the "
+"following actions, you can just delete the text and an email will not be "
+"sent."
+msgstr ""
+
+#: admin/templates/settings.php:1094
+msgid "Email Content - Logo Image"
+msgstr ""
+
+#: admin/templates/settings.php:1097
+msgid ""
+"Choose an image for your custom emails. Keep it 600px or less for best "
+"results."
+msgstr ""
+
+#: admin/templates/settings.php:1121
+msgid "Email Content - Registration"
+msgstr ""
+
+#: admin/templates/settings.php:1124
+msgid ""
+"The email content that is sent to the user upon registration (using the "
+"Cooked registration form). Some tokens you can use:"
+msgstr ""
+
+#: admin/templates/settings.php:1126 admin/templates/settings.php:1162
+#: admin/templates/settings.php:1247
+msgid "To display the person's name."
+msgstr ""
+
+#: admin/templates/settings.php:1127
+msgid "To display the username for login."
+msgstr ""
+
+#: admin/templates/settings.php:1128
+msgid "To display the password for login."
+msgstr ""
+
+#: admin/templates/settings.php:1157
+msgid "Email Content - Recipe Approval"
+msgstr ""
+
+#: admin/templates/settings.php:1160
+msgid ""
+"The email content that is sent to the user upon recipe approval. Some tokens "
+"you can use:"
+msgstr ""
+
+#: admin/templates/settings.php:1163 admin/templates/settings.php:1248
+msgid "To display the recipe's name."
+msgstr ""
+
+#: admin/templates/settings.php:1164 admin/templates/settings.php:1249
+msgid "To display the recipe's link."
+msgstr ""
+
+#: admin/templates/settings.php:1194
+msgid "Which user should receive notification emails by default?"
+msgstr ""
+
+#: admin/templates/settings.php:1196
+msgid ""
+"By default, Cooked uses the <strong>Settings > General > E-mail Address</"
+"strong> setting. You can choose a different Administrator here."
+msgstr ""
+
+#: admin/templates/settings.php:1212
+msgid "Default"
+msgstr ""
+
+#: admin/templates/settings.php:1242
+msgid "New Recipe Submission"
+msgstr ""
+
+#: admin/templates/settings.php:1245
+msgid ""
+"The email content that is sent to the site admin upon recipe submission. "
+"Some tokens you can use:"
+msgstr ""
+
+#: admin/templates/settings.php:1274
+msgid "Facebook App ID"
+msgstr ""
+
+#: admin/templates/settings.php:1276
+msgid ""
+"To activate the Facebook sharing feature, you need to enter a valid Facebook "
+"App ID."
+msgstr ""
+
+#: admin/templates/settings.php:1276
+msgid "View Instructions"
+msgstr ""
+
+#: admin/templates/settings.php:1278
+msgid "Click here"
+msgstr ""
+
+#: admin/templates/settings.php:1278
+msgid "to create a new Facebook app."
+msgstr ""
+
+#: admin/templates/settings.php:1279
+msgid ""
+"Click the green <strong>+ Create new app</strong> button at the top right."
+msgstr ""
+
+#: admin/templates/settings.php:1280
+msgid ""
+"In the popup window, enter a <em>Display Name</em> and choose a "
+"<em>Category</em>. Then click <strong>Create App</strong>."
+msgstr ""
+
+#: admin/templates/settings.php:1281
+msgid "Fill in the required captcha and click <strong>Submit</strong>."
+msgstr ""
+
+#: admin/templates/settings.php:1282
+msgid "On the next page, click the <strong>Settings</strong> tab on the left."
+msgstr ""
+
+#: admin/templates/settings.php:1283
+msgid "Click the <strong>+ Add Platform</strong> button under the fields."
+msgstr ""
+
+#: admin/templates/settings.php:1284
+msgid ""
+"Choose <em>Website</em> and enter the URL of the website where Cooked is "
+"installed. Click <strong>Save Changes</strong>."
+msgstr ""
+
+#: admin/templates/settings.php:1285
+msgid ""
+"Enter the same URL in the <em>App Domains</em> field above. Click "
+"<strong>Save Changes</strong> again."
+msgstr ""
+
+#: admin/templates/settings.php:1286
+msgid ""
+"Now you can copy and paste the <em>App ID</em> at the top into the field on "
+"this page."
+msgstr ""
+
+#: admin/templates/settings.php:1294
+msgid "Sharing Options"
+msgstr ""
+
+#: admin/templates/settings.php:1296
+msgid "Choose which sharing options you want to offer your visitors."
+msgstr ""
+
+#: admin/templates/settings.php:1351
+msgid "Import / Export"
+msgstr ""
+
+#: admin/templates/settings.php:1358
+msgid "Import Settings"
+msgstr ""
+
+#: admin/templates/settings.php:1363
+msgid "Export Settings"
+msgstr ""
+
+#: admin/templates/settings.php:1370
+msgid "Uninstall"
+msgstr ""
+
+#: admin/templates/settings.php:1377
+msgid ""
+"<strong>Warning!</strong> This operation deletes ALL &ldquo;Cooked&rdquo; "
+"data and disables the plugin. If you <br />continue, you will not be able to "
+"retrieve or restore your recipes or reviews."
+msgstr ""
+
+#: admin/templates/settings.php:1379
+msgid "I understand, uninstall the plugin please."
+msgstr ""
+
+#: admin/widgets.php:10
+msgid "Single Recipe"
+msgstr ""
+
+#: admin/widgets.php:45 admin/widgets.php:226 admin/widgets.php:361
+msgid "Widget Title"
+msgstr ""
+
+#: admin/widgets.php:50
+msgid "Choose a Recipe"
+msgstr ""
+
+#: admin/widgets.php:63
+msgid "Hide the image"
+msgstr ""
+
+#: admin/widgets.php:66 admin/widgets.php:260
+msgid "Hide the rating"
+msgstr ""
+
+#: admin/widgets.php:69
+msgid "Hide the description"
+msgstr ""
+
+#: admin/widgets.php:72 admin/widgets.php:263
+msgid "Hide the author"
+msgstr ""
+
+#: admin/widgets.php:75
+msgid "Hide the cooking times"
+msgstr ""
+
+#: admin/widgets.php:152 admin/widgets.php:312 includes/shortcodes.php:1342
+#: includes/shortcodes.php:1409 templates/cp_recipe/section-recipe_info.php:56
+#: templates/views/full_width.php:99 templates/views/recipe_grid.php:100
+msgid "By"
+msgstr ""
+
+#: admin/widgets.php:166 includes/shortcodes.php:1354
+#: templates/cp_recipe/section-recipe_info.php:95
+#: templates/views/full_width.php:111 templates/views/recipe_grid.php:113
+msgid "Prep"
+msgstr ""
+
+#: admin/widgets.php:167 includes/shortcodes.php:1355
+#: templates/cp_recipe/section-recipe_info.php:96
+#: templates/views/full_width.php:112 templates/views/recipe_grid.php:114
+msgid "Cook"
+msgstr ""
+
+#: admin/widgets.php:212
+msgid "Recipe List"
+msgstr ""
+
+#: admin/widgets.php:231
+msgid "List Type"
+msgstr ""
+
+#: admin/widgets.php:233
+msgid "Top Rated"
+msgstr ""
+
+#: admin/widgets.php:234
+msgid "Newest Recipes"
+msgstr ""
+
+#: admin/widgets.php:240
+msgid "How many to display?"
+msgstr ""
+
+#: admin/widgets.php:353
+msgid "Recipe Search"
+msgstr ""
+
+#: cooked.php:133
+msgid "Browse Recipes"
+msgstr ""
+
+#: cooked.php:143
+msgid "Profile"
+msgstr ""
+
+#: cooked.php:156
+msgid "A Message from Cooked:"
+msgstr ""
+
+#: cooked.php:189
+msgid "Image"
+msgstr ""
+
+#: cooked.php:204
+msgid "None"
+msgstr ""
+
+#: cooked.php:423
+msgid "Pending"
+msgstr ""
+
+#: cooked.php:425
+msgid "Settings"
+msgstr ""
+
+#: cooked.php:432 cooked.php:440
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: cooked.php:474
+#, php-format
+msgid "There is %s pending recipe."
+msgid_plural "There are %s pending recipes."
+msgstr[0] ""
+msgstr[1] ""
+
+#: cooked.php:474
+msgid "View Pending Recipe"
+msgid_plural "View Pending Recipes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: cooked.php:507
+msgid "Are you sure you want to delete this recipe?"
+msgstr ""
+
+#: cooked.php:508
+msgid "Are you sure you want to approve this recipe?"
+msgstr ""
+
+#: cooked.php:509 includes/functions.php:367
+msgid "Beginner"
+msgstr ""
+
+#: cooked.php:510 includes/functions.php:368
+msgid "Intermediate"
+msgstr ""
+
+#: cooked.php:511 includes/functions.php:369
+msgid "Advanced"
+msgstr ""
+
+#: cooked.php:609
+msgid "Timer Complete!"
+msgstr ""
+
+#: cooked.php:672
+msgid ""
+"You did not add a rating. Hit the Back button on your Web browser and "
+"resubmit your review with a rating."
+msgstr ""
+
+#: includes/edit-recipe.php:75 includes/shortcodes.php:603
+msgid "Recipe Title"
+msgstr ""
+
+#: includes/edit-recipe.php:80 includes/shortcodes.php:608
+msgid "Keep it short and descriptive."
+msgstr ""
+
+#: includes/edit-recipe.php:86 includes/shortcodes.php:614
+msgid "Recipe Photo"
+msgstr ""
+
+#: includes/edit-recipe.php:91 includes/shortcodes.php:619
+#: templates/profile.php:348
+msgid "Choose image ..."
+msgstr ""
+
+#: includes/edit-recipe.php:93 includes/shortcodes.php:621
+msgid "Recommended size: 2000px by 600px or larger"
+msgstr ""
+
+#: includes/edit-recipe.php:101 includes/shortcodes.php:688
+msgid "Recipe Video"
+msgstr ""
+
+#: includes/edit-recipe.php:116
+msgid "Difficulty level"
+msgstr ""
+
+#: includes/edit-recipe.php:137 includes/shortcodes.php:721
+msgid "Recipe Category"
+msgstr ""
+
+#: includes/edit-recipe.php:137 includes/edit-recipe.php:148
+#: includes/edit-recipe.php:159 includes/shortcodes.php:721
+#: includes/shortcodes.php:728 includes/shortcodes.php:735
+msgid "Choose one or more..."
+msgstr ""
+
+#: includes/edit-recipe.php:250
+msgid ""
+"The ingredients have been entered in \"detailed mode\". They can only be "
+"edited by an administrator."
+msgstr ""
+
+#: includes/edit-recipe.php:271
+msgid ""
+"The directions have been entered in \"detailed mode\". They can only be "
+"edited by an administrator."
+msgstr ""
+
+#: includes/edit-recipe.php:316 includes/shortcodes.php:825
+#: templates/cp_recipe/section-nutrition.php:98
+msgid "Nutrition Facts"
+msgstr ""
+
+#: includes/edit-recipe.php:478
+msgid "Update Recipe"
+msgstr ""
+
+#: includes/edit-recipe.php:565 includes/shortcodes.php:1124
+msgid "Please add a title."
+msgstr ""
+
+#: includes/edit-recipe.php:566 includes/shortcodes.php:1125
+msgid "Please add some ingredients."
+msgstr ""
+
+#: includes/edit-recipe.php:567 includes/shortcodes.php:1126
+msgid "Please add the directions."
+msgstr ""
+
+#: includes/edit-recipe.php:637 includes/shortcodes.php:1205
+msgid "Error submitting recipe, please try again."
+msgstr ""
+
+#: includes/edit-recipe.php:650 includes/shortcodes.php:1219
+msgid "Error uploading image."
+msgstr ""
+
+#: includes/functions.php:10
+msgid "hr"
+msgid_plural "hrs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/functions.php:14
+msgid "min"
+msgid_plural "mins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/functions.php:93
+msgid "Email"
+msgstr ""
+
+#: includes/functions.php:191
+msgid "Difficulty Level: Easy"
+msgstr ""
+
+#: includes/functions.php:195
+msgid "Difficulty Level: Intermediate"
+msgstr ""
+
+#: includes/functions.php:199
+msgid "Difficulty Level: Advanced"
+msgstr ""
+
+#: includes/functions.php:630 includes/functions.php:631
+msgid "All Recipe Categories"
+msgstr ""
+
+#: includes/functions.php:652 includes/functions.php:653
+msgid "All Recipe Cuisines"
+msgstr ""
+
+#: includes/functions.php:674 includes/functions.php:675
+msgid "All Recipe Cooking Methods"
+msgstr ""
+
+#: includes/functions.php:688
+msgid "Title (descending)"
+msgstr ""
+
+#: includes/functions.php:689
+msgid "Title (ascending)"
+msgstr ""
+
+#: includes/functions.php:690
+msgid "Date (newest first)"
+msgstr ""
+
+#: includes/functions.php:691
+msgid "Date (oldest first)"
+msgstr ""
+
+#: includes/functions.php:692
+msgid "Rating (highest first)"
+msgstr ""
+
+#: includes/functions.php:693
+msgid "Rating (lowest first)"
+msgstr ""
+
+#: includes/functions.php:696 includes/functions.php:697
+msgid "Sort Recipes by..."
+msgstr ""
+
+#: includes/functions.php:707 includes/functions.php:710
+msgid "Search for Recipes"
+msgstr ""
+
+#: includes/functions.php:757
+msgid "Your name ..."
+msgstr ""
+
+#: includes/functions.php:762
+msgid "Your email ..."
+msgstr ""
+
+#: includes/functions.php:1154
+msgid "Load More"
+msgstr ""
+
+#: includes/functions.php:1220
+msgid "The passwords you entered do not match. Your password was not updated."
+msgstr ""
+
+#: includes/functions.php:1231
+msgid "The Email you entered is not valid.  please try again."
+msgstr ""
+
+#: includes/functions.php:1233
+msgid "This email is already used by another user.  try a different one."
+msgstr ""
+
+#: includes/functions.php:1259
+msgid "Error uploading avatar."
+msgstr ""
+
+#: includes/functions.php:1264
+msgid "Avatar uploader security check failed."
+msgstr ""
+
+#: includes/profiles.php:52
+msgid "'s Profile"
+msgstr ""
+
+#: includes/shortcodes.php:235 post-types/cp_recipe.php:68
+#: post-types/cp_recipe.php:70 post-types/cp_recipe.php:86
+#: templates/profile.php:211
+msgid "Recipes"
+msgstr ""
+
+#: includes/shortcodes.php:236 templates/profile.php:212
+msgid "Reviews"
+msgstr ""
+
+#: includes/shortcodes.php:237 templates/profile.php:213
+msgid "Favorites"
+msgstr ""
+
+#: includes/shortcodes.php:264
+msgid "The text you've entered does not match the image."
+msgstr ""
+
+#: includes/shortcodes.php:272
+msgid "All fields are required to register."
+msgstr ""
+
+#: includes/shortcodes.php:276
+msgid "That username is too short; at least 4 characters is required."
+msgstr ""
+
+#: includes/shortcodes.php:280
+msgid "That username already exists."
+msgstr ""
+
+#: includes/shortcodes.php:284
+msgid "That username is not valid."
+msgstr ""
+
+#: includes/shortcodes.php:288
+msgid "That email address is not valid."
+msgstr ""
+
+#: includes/shortcodes.php:292
+msgid "That email is already in use."
+msgstr ""
+
+#: includes/shortcodes.php:338 includes/shortcodes.php:417
+msgid "Success!"
+msgstr ""
+
+#: includes/shortcodes.php:338
+msgid "Registration complete, please check your email for login information."
+msgstr ""
+
+#: includes/shortcodes.php:352
+msgid "First Name"
+msgstr ""
+
+#: includes/shortcodes.php:356
+msgid "Last Name"
+msgstr ""
+
+#: includes/shortcodes.php:360
+msgid "Your Email"
+msgstr ""
+
+#: includes/shortcodes.php:369 includes/shortcodes.php:991
+msgid "Please enter the following text:"
+msgstr ""
+
+#: includes/shortcodes.php:388 includes/shortcodes.php:408
+msgid "Register"
+msgstr ""
+
+#: includes/shortcodes.php:407
+msgid "Login"
+msgstr ""
+
+#: includes/shortcodes.php:409
+msgid "Forgot your password?"
+msgstr ""
+
+#: includes/shortcodes.php:418
+msgid "Check your email to reset your password."
+msgstr ""
+
+#: includes/shortcodes.php:424
+msgid "Both fields are required to log in."
+msgstr ""
+
+#: includes/shortcodes.php:425
+msgid "Sorry, those login credentials are incorrect."
+msgstr ""
+
+#: includes/shortcodes.php:504
+msgid "A username or email address is required to reset your password."
+msgstr ""
+
+#: includes/shortcodes.php:507
+msgid "Username or Email"
+msgstr ""
+
+#: includes/shortcodes.php:512
+msgid "Reset my password"
+msgstr ""
+
+#: includes/shortcodes.php:586
+msgid ""
+"Thank you for submitting a recipe. Your recipe will be reviewed by a member "
+"of our staff."
+msgstr ""
+
+#: includes/shortcodes.php:586
+msgid "Submit another recipe?"
+msgstr ""
+
+#: includes/shortcodes.php:590
+#, php-format
+msgid ""
+"Sorry, but you've hit the recipe submission limit. Each user may only have "
+"%d recipe at a time."
+msgid_plural ""
+"Sorry, but you've hit the recipe submission limit. Each user may only have "
+"%d recipes at a time."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/shortcodes.php:1014
+msgid "Submit Recipe"
+msgstr ""
+
+#: includes/shortcodes.php:1121
+msgid "The captcha text you've entered does not match the image."
+msgstr ""
+
+#: includes/shortcodes.php:1423
+msgid "Total Time"
+msgstr ""
+
+#: post-types/cp_recipe.php:69 post-types/cp_recipe.php:71
+#: templates/views/compact_list.php:57 templates/views/compact_list.php:224
+msgid "Recipe"
+msgstr ""
+
+#: post-types/cp_recipe.php:72
+msgid "Add New"
+msgstr ""
+
+#: post-types/cp_recipe.php:73
+msgid "Add New Recipe"
+msgstr ""
+
+#: post-types/cp_recipe.php:74
+msgid "New Recipe"
+msgstr ""
+
+#: post-types/cp_recipe.php:75
+msgid "Edit Recipe"
+msgstr ""
+
+#: post-types/cp_recipe.php:76
+msgid "View Recipe"
+msgstr ""
+
+#: post-types/cp_recipe.php:77
+msgid "All Recipes"
+msgstr ""
+
+#: post-types/cp_recipe.php:78
+msgid "Search Recipes"
+msgstr ""
+
+#: post-types/cp_recipe.php:79
+msgid "Parent Recipes:"
+msgstr ""
+
+#: post-types/cp_recipe.php:80
+msgid "No Recipes found."
+msgstr ""
+
+#: post-types/cp_recipe.php:81
+msgid "No Recipes found in Trash."
+msgstr ""
+
+#: taxonomies/cp_recipe_category.php:31
+msgid "Recipe Categories"
+msgstr ""
+
+#: taxonomies/cp_recipe_category.php:33
+msgid "Search Categories"
+msgstr ""
+
+#: taxonomies/cp_recipe_category.php:34
+msgid "All Categories"
+msgstr ""
+
+#: taxonomies/cp_recipe_category.php:35
+msgid "Parent Category"
+msgstr ""
+
+#: taxonomies/cp_recipe_category.php:36
+msgid "Parent Category:"
+msgstr ""
+
+#: taxonomies/cp_recipe_category.php:37
+msgid "Edit Category"
+msgstr ""
+
+#: taxonomies/cp_recipe_category.php:38
+msgid "Update Category"
+msgstr ""
+
+#: taxonomies/cp_recipe_category.php:39
+msgid "Add New Category"
+msgstr ""
+
+#: taxonomies/cp_recipe_category.php:40
+msgid "New Category Name"
+msgstr ""
+
+#: taxonomies/cp_recipe_category.php:41
+msgid "Categories"
+msgstr ""
+
+#: taxonomies/cp_recipe_cooking_method.php:31
+#: taxonomies/cp_recipe_cooking_method.php:41
+msgid "Cooking methods"
+msgstr ""
+
+#: taxonomies/cp_recipe_cooking_method.php:32
+msgid "Cooking method"
+msgstr ""
+
+#: taxonomies/cp_recipe_cooking_method.php:33
+msgid "Search Cooking methods"
+msgstr ""
+
+#: taxonomies/cp_recipe_cooking_method.php:34
+msgid "All Cooking methods"
+msgstr ""
+
+#: taxonomies/cp_recipe_cooking_method.php:35
+msgid "Parent Cooking method"
+msgstr ""
+
+#: taxonomies/cp_recipe_cooking_method.php:36
+msgid "Parent Cooking method:"
+msgstr ""
+
+#: taxonomies/cp_recipe_cooking_method.php:37
+msgid "Edit Cooking method"
+msgstr ""
+
+#: taxonomies/cp_recipe_cooking_method.php:38
+msgid "Update Cooking method"
+msgstr ""
+
+#: taxonomies/cp_recipe_cooking_method.php:39
+msgid "Add New Cooking method"
+msgstr ""
+
+#: taxonomies/cp_recipe_cooking_method.php:40
+msgid "New Cooking method Name"
+msgstr ""
+
+#: taxonomies/cp_recipe_cuisine.php:31 taxonomies/cp_recipe_cuisine.php:41
+msgid "Cuisines"
+msgstr ""
+
+#: taxonomies/cp_recipe_cuisine.php:33
+msgid "Search Cuisines"
+msgstr ""
+
+#: taxonomies/cp_recipe_cuisine.php:34
+msgid "All Cuisines"
+msgstr ""
+
+#: taxonomies/cp_recipe_cuisine.php:35
+msgid "Parent Cuisine"
+msgstr ""
+
+#: taxonomies/cp_recipe_cuisine.php:36
+msgid "Parent Cuisine:"
+msgstr ""
+
+#: taxonomies/cp_recipe_cuisine.php:37
+msgid "Edit Cuisine"
+msgstr ""
+
+#: taxonomies/cp_recipe_cuisine.php:38
+msgid "Update Cuisine"
+msgstr ""
+
+#: taxonomies/cp_recipe_cuisine.php:39
+msgid "Add New Cuisine"
+msgstr ""
+
+#: taxonomies/cp_recipe_cuisine.php:40
+msgid "New Cuisine Name"
+msgstr ""
+
+#: taxonomies/cp_recipe_measurement.php:38
+msgid "Search Measurements"
+msgstr ""
+
+#: taxonomies/cp_recipe_measurement.php:39
+msgid "All Measurements"
+msgstr ""
+
+#: taxonomies/cp_recipe_measurement.php:40
+msgid "Parent Measurement"
+msgstr ""
+
+#: taxonomies/cp_recipe_measurement.php:41
+msgid "Parent Measurement:"
+msgstr ""
+
+#: taxonomies/cp_recipe_measurement.php:42
+msgid "Edit Measurement"
+msgstr ""
+
+#: taxonomies/cp_recipe_measurement.php:43
+msgid "Update Measurement"
+msgstr ""
+
+#: taxonomies/cp_recipe_measurement.php:44
+msgid "Add New Measurement"
+msgstr ""
+
+#: taxonomies/cp_recipe_measurement.php:45
+msgid "New Measurement Name"
+msgstr ""
+
+#: taxonomies/cp_recipe_tags.php:28
+msgid "Recipe Tags"
+msgstr ""
+
+#: taxonomies/cp_recipe_tags.php:29
+msgid "Tag"
+msgstr ""
+
+#: taxonomies/cp_recipe_tags.php:30
+msgid "Search Tags"
+msgstr ""
+
+#: taxonomies/cp_recipe_tags.php:31
+msgid "All Tags"
+msgstr ""
+
+#: taxonomies/cp_recipe_tags.php:32
+msgid "Parent Tag"
+msgstr ""
+
+#: taxonomies/cp_recipe_tags.php:33
+msgid "Parent Tag:"
+msgstr ""
+
+#: taxonomies/cp_recipe_tags.php:34
+msgid "Edit Tag"
+msgstr ""
+
+#: taxonomies/cp_recipe_tags.php:35
+msgid "Update Tag"
+msgstr ""
+
+#: taxonomies/cp_recipe_tags.php:36
+msgid "Add New Tag"
+msgstr ""
+
+#: taxonomies/cp_recipe_tags.php:37
+msgid "New Tag Name"
+msgstr ""
+
+#: templates/archive-cp_recipe.php:29
+msgid "Recipe Tag"
+msgstr ""
+
+#: templates/cp_recipe/section-fullscreen.php:8
+msgid "close full screen"
+msgstr ""
+
+#: templates/cp_recipe/section-nutrition.php:85
+msgid "Total Carbohydrates"
+msgstr ""
+
+#: templates/cp_recipe/section-nutrition.php:90
+msgid "Dietary Fiber"
+msgstr ""
+
+#: templates/cp_recipe/section-reviews.php:25
+msgid "Review"
+msgid_plural "Reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/cp_recipe/section-reviews.php:41
+#: templates/cp_recipe/section-reviews.php:47
+msgid "All fields are required to submit a review."
+msgstr ""
+
+#: templates/cp_recipe/section-reviews.php:43
+msgid "All fields and a star-rating are required to submit a review."
+msgstr ""
+
+#: templates/cp_recipe/section-reviews.php:108
+msgid "Logged in as"
+msgstr ""
+
+#: templates/cp_recipe/section-reviews.php:109
+msgid "Log out?"
+msgstr ""
+
+#: templates/cp_recipe/section-reviews.php:110
+msgid "Log out of this account"
+msgstr ""
+
+#: templates/cp_recipe/section-reviews.php:117
+msgid "Add a review"
+msgstr ""
+
+#: templates/cp_recipe/section-reviews.php:118
+msgid "Your review ..."
+msgstr ""
+
+#: templates/cp_recipe/single-part.php:41
+msgid "You are currently editing your recipe ..."
+msgstr ""
+
+#: templates/cp_recipe/single-part.php:43
+msgid "Go back"
+msgstr ""
+
+#: templates/cp_recipe/single-part.php:94
+msgid "Full-screen"
+msgstr ""
+
+#: templates/cp_recipe/single-part.php:127
+msgid "Your recipe has been updated!"
+msgstr ""
+
+#: templates/cp_recipe/single-part.php:129
+#: templates/cp_recipe/single-part.php:449
+msgid "Private Recipe"
+msgstr ""
+
+#: templates/cp_recipe/single-part.php:129
+msgid ""
+"This recipe is private (only you can see it). You have the option to do the "
+"following:"
+msgstr ""
+
+#: templates/cp_recipe/single-part.php:131
+msgid "Public Recipe"
+msgstr ""
+
+#: templates/cp_recipe/single-part.php:131
+msgid "This is your recipe! You have the option to do the following:"
+msgstr ""
+
+#: templates/cp_recipe/single-part.php:134
+msgid "Edit this Recipe"
+msgstr ""
+
+#: templates/cp_recipe/single-part.php:136
+msgid "Make this Recipe Public"
+msgstr ""
+
+#: templates/cp_recipe/single-part.php:138
+msgid "Make this Recipe Private"
+msgstr ""
+
+#: templates/cp_recipe/single-part.php:449
+msgid "Whoops! This recipe is private."
+msgstr ""
+
+#: templates/profile.php:33
+msgid "No profile here!"
+msgstr ""
+
+#: templates/profile.php:34
+msgid "Sorry, this user profile does not exist."
+msgstr ""
+
+#: templates/profile.php:196
+msgid "Logout"
+msgstr ""
+
+#: templates/profile.php:210
+msgid "My Account"
+msgstr ""
+
+#: templates/profile.php:214
+msgid "Edit Profile"
+msgstr ""
+
+#: templates/profile.php:236
+msgid "My Recipes"
+msgstr ""
+
+#: templates/profile.php:258
+msgid "My Reviews"
+msgstr ""
+
+#: templates/profile.php:280 templates/views/compact_list.php:161
+msgid "Private"
+msgstr ""
+
+#: templates/profile.php:281
+msgid "Review Posted on "
+msgstr ""
+
+#: templates/profile.php:297
+msgid "No reviews found."
+msgstr ""
+
+#: templates/profile.php:316
+msgid "My Favorites"
+msgstr ""
+
+#: templates/profile.php:327
+msgid "No favorites found."
+msgstr ""
+
+#: templates/profile.php:347
+msgid "Update Avatar"
+msgstr ""
+
+#: templates/profile.php:347 templates/profile.php:356
+#: templates/profile.php:360 templates/profile.php:365
+#: templates/profile.php:372 templates/profile.php:376
+#: templates/profile.php:383
+msgid "(disabled in demo)"
+msgstr ""
+
+#: templates/profile.php:350
+msgid "Recommended size: 100px by 100px or larger"
+msgstr ""
+
+#: templates/profile.php:356
+msgid "Display Name"
+msgstr ""
+
+#: templates/profile.php:360
+msgid "E-mail *"
+msgstr ""
+
+#: templates/profile.php:365
+msgid "Website"
+msgstr ""
+
+#: templates/profile.php:372
+msgid "Change Password"
+msgstr ""
+
+#: templates/profile.php:376
+msgid "Repeat Password"
+msgstr ""
+
+#: templates/profile.php:393
+msgid "Update"
+msgstr ""
+
+#: templates/views/compact_list.php:58 templates/views/compact_list.php:225
+msgid "Time"
+msgstr ""
+
+#: templates/views/compact_list.php:62 templates/views/compact_list.php:193
+#: templates/views/compact_list.php:228
+msgid "Method"
+msgstr ""
+
+#: templates/views/compact_list.php:162
+msgid "In Review"
+msgstr ""
+
+#: templates/views/compact_list.php:211 templates/views/full_width.php:125
+#: templates/views/recipe_grid.php:128
+msgid "No recipes found."
+msgstr ""

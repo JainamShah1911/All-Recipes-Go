@@ -1,0 +1,99 @@
+version: 2
+preset:
+  image: 'gantry-admin://images/layouts/home.png'
+  name: home
+  timestamp: 1477008823
+layout:
+  /header/:
+    -
+      - 'logo-6215 25'
+      - 'menu-2427 75'
+  /navigation/: {  }
+  /showcase/: {  }
+  /feature/:
+    -
+      - custom-8471
+  /main/:
+    -
+      - system-messages-2497
+  /subfeature/: {  }
+  /footer/:
+    -
+      - position-footer
+    -
+      - 'copyright-1146 50'
+      - 'social-9486 50'
+  offcanvas:
+    -
+      - mobile-menu-8733
+structure:
+  header:
+    attributes:
+      boxed: ''
+  navigation:
+    type: section
+    attributes:
+      boxed: ''
+  showcase:
+    type: section
+    attributes:
+      boxed: ''
+  feature:
+    type: section
+    attributes:
+      boxed: ''
+  main:
+    attributes:
+      boxed: ''
+  subfeature:
+    type: section
+    attributes:
+      class: flush
+      boxed: ''
+  footer:
+    attributes:
+      boxed: ''
+content:
+  logo-6215:
+    title: 'Logo / Image'
+    attributes:
+      image: 'gantry-media://ARlogo.svg'
+  menu-2427:
+    attributes:
+      menu: main
+  custom-8471:
+    title: 'Custom HTML'
+    attributes:
+      html: "<img src=\"wp-content/uploads/2016/10/415364.jpg\">\n"
+  position-footer:
+    attributes:
+      key: footer
+  social-9486:
+    attributes:
+      css:
+        class: social-items
+      items:
+        -
+          icon: 'fa fa-twitter'
+          text: Twitter
+          link: 'http://twitter.com/rockettheme'
+          name: Twitter
+        -
+          icon: 'fa fa-facebook'
+          text: Facebook
+          link: 'http://facebook.com/rockettheme'
+          name: Facebook
+        -
+          icon: 'fa fa-google'
+          text: Google
+          link: 'http://plus.google.com/+rockettheme'
+          name: Google
+        -
+          icon: 'fa fa-rss'
+          text: RSS
+          link: 'http://www.rockettheme.com/product-updates?rss'
+          name: RSS
+    block:
+      variations: center
+  mobile-menu-8733:
+    title: 'Mobile Menu'
